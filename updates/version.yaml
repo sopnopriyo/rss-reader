@@ -1,0 +1,7 @@
+1.0.1: First version of Rss
+1.0.2:
+    - Create rss post table.
+    - create_rss_models_table.php
+1.0.3:
+    - Seeding db tables with rss resources.
+    - seed_all_tables.php
